@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hudaenesonmez
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#,Java,HTML,CSS
 - 📫 How to reach me hudae.snmz@gmail.com
 
 <!---
